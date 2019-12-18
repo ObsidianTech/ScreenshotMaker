@@ -1,0 +1,24 @@
+{
+  "name": "screenshotmaker",
+  "version": "1.0.0",
+  "description": "An application designed to create snapshots from videos.",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^7.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObsidianTech/ScreenshotMaker.git"
+  },
+  "author": "Christopher Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ObsidianTech/ScreenshotMaker/issues"
+  },
+  "homepage": "https://github.com/ObsidianTech/ScreenshotMaker#readme"
+}
